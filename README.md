@@ -1,1 +1,1 @@
-# Video-Encryption-and-Decryption-using-AES-Algorithm
+This is a cryptography project in which I will be using AES algorithm to encypt and decrypt video by specifying the file path, and it is also secured which will do the encryption / decryption only after checking the password from the user
